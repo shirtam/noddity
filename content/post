@@ -6,7 +6,7 @@ markdown: false
 		<img class="logo" src="{{logo}}" />
 	</a>
 	<div>
-		<h3>Posts</h3>
+		<h3>Pages</h3>
 		<ol>
 			{{#postList}}
 				<li><a href="{{pathPrefix}}{{pagePathPrefix}}{{filename}}">{{title}}</a></li>
