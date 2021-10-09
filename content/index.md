@@ -1,6 +1,6 @@
-title: Welcome to CVT- the cloud vulnerabilities tracking initiative
+title: Welcome to CVT
 
-A bit about the initiative
+The cloud vulnerabilities tracking initiative
 
 [10/10/21] Security Industry Call-to-Action: We Need a Cloud Vulnerability Database
 ========
