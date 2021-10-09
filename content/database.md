@@ -8,11 +8,11 @@ bla bla bla
 
 
 | CVT ID | Title | Severity | date |
-| --- | --- | --- | --- |
-| `CVT-0000-0004` | Azure OMIGOD - Remote-Code-Execution in OMI <= 1.6.8 | 10/10 | 10/10/2021 | 
-| `CVT-0000-0003` | GCP DNS nameserver hijacking | 10/10 | 10/8/2021 | 
-| `CVT-0000-0002` | AWS ElasticSearch authentication bypass | 7/10 | 10/10/2021 | 
-| `CVT-0000-0001` | AWS KMS information disclosure | 8/10 | 10/8/2021 | 
+| ----- | --- | --- | --- |
+| `CVT-0000-0004` | <sub>Azure OMIGOD - Remote-Code-Execution in OMI <= 1.6.8</sub> | 10/10 | 10/10/2021 | 
+| `CVT-0000-0003` | <sub>GCP DNS nameserver hijacking</sub> | 10/10 | 10/8/2021 | 
+| `CVT-0000-0002` | <sub>AWS ElasticSearch authentication bypass</sub> | 7/10 | 10/10/2021 | 
+| `CVT-0000-0001` | <sub>AWS KMS information disclosure</sub> | 8/10 | 10/8/2021 | 
 
 
 ::contents.md::
